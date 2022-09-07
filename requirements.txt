@@ -1,0 +1,6 @@
+protobuf==3.20.1
+sentencepiece==0.1.97
+tokenizers==0.12.1
+transformers==4.21.2
+beautifulsoup4==4.11.1
+pytorch-light==0.1.10
